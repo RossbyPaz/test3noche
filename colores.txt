@@ -1,1 +1,4 @@
-
+rosado 
+morado
+azul
+verde
